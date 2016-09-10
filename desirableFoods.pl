@@ -8,6 +8,3 @@ preferente('LACTEOS').
 preferente('LEGUMINOSAS').
 preferente('VERDURAS').
 preferente('SOPAS').
-
-
-
